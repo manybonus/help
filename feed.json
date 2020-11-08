@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ManyBonus Help",
+    "description": "",
+    "home_page_url": "https://manybonus.github.io/help",
+    "feed_url": "https://manybonus.github.io/help/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Admin"
+    },
+    "items": [
+        {
+            "id": "https://manybonus.github.io/help/pervonachalnaya-nastroyka-manybonus.html",
+            "url": "https://manybonus.github.io/help/pervonachalnaya-nastroyka-manybonus.html",
+            "title": "Первоначальная настройка ManyBonus",
+            "summary": "Зарегистрируйтесь здесьЗайдите в настройки",
+            "content_html": "<ol>\n<li>Зарегистрируйтесь здесь</li>\n<li>Зайдите в настройки</li>\n</ol>",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-08T10:34:07+03:00",
+            "date_modified": "2020-11-08T10:34:07+03:00"
+        }
+    ]
+}

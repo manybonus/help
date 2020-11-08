@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ManyBonus Help</title>
+    <link href="https://manybonus.github.io/help/feed.xml" rel="self" />
+    <link href="https://manybonus.github.io/help" />
+    <updated>2020-11-08T10:59:19+03:00</updated>
+    <author>
+        <name>Admin</name>
+    </author>
+    <id>https://manybonus.github.io/help</id>
+
+    <entry>
+        <title>Первоначальная настройка ManyBonus</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://manybonus.github.io/help/pervonachalnaya-nastroyka-manybonus.html"/>
+        <id>https://manybonus.github.io/help/pervonachalnaya-nastroyka-manybonus.html</id>
+
+        <updated>2020-11-08T10:34:07+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Зарегистрируйтесь здесьЗайдите в настройки
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ol>
+<li>Зарегистрируйтесь здесь</li>
+<li>Зайдите в настройки</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+</feed>
